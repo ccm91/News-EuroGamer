@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+<a type="application/rss+xml" href="Gamers.xml">
+<img src=https://www.flickr.com/photos/playstationblog/29418648132/in/photolist-MSfmuA-MVjZkx-MMTmMR-MnFKpS-M11Xg6-NVcGa2-P4s6cU-L325f1-LPCgaf-L3h1B8-KKXUJq-KfHFna-Kfu3hW-Kfu3go-JA6eLF-KwtDqD-Kpzzmc-JNAfr5-HW3gGE-JHfUTs-HW3gEA-LyriEq-M11XdF-FPVtVp-EUETLg-FFKyFw-EUtVkm-EUETQK-FJ4z4M-EUETLM-EUETR6-EUtVsL-NCsExr-MNqiF1-MNqiDC-NCsEvH-syaA4p-sy2skL-sy2rSb-syarwe-nnYLMc-nkVU3F-nkVQT5-nmfzvL-nkVQVj-nnYLx4-njaKyW-njaKzs-nkVQVQ-mcfNaX">
+</a>
 
 You can use the [editor on GitHub](https://github.com/ccm91/News-EuroGamer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
